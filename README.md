@@ -160,3 +160,34 @@ Contributions welcome! Please submit a PR. Add new entries at the end of the rel
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/e2b-dev">
+        <img src="https://github.com/e2b-dev.png" width="80px;" alt="E2B"/><br />
+        <sub><b>E2B</b></sub>
+      </a><br />
+      <sub>Code execution for AI agents</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/crewAIInc">
+        <img src="https://github.com/crewAIInc.png" width="80px;" alt="CrewAI"/><br />
+        <sub><b>CrewAI</b></sub>
+      </a><br />
+      <sub>Multi-agent AI framework</sub>
+    </td>
+  </tr>
+</table>
