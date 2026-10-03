@@ -63,6 +63,7 @@ Agentic AI refers to AI systems that can autonomously plan, reason, use tools, a
 - [Swarm](https://github.com/openai/swarm) - OpenAI educational multi-agent orchestration framework.
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher) - Autonomous agent for comprehensive online research.
 - [MegaAgent](https://arxiv.org/abs/2408.09955) - Autonomous cooperation in large-scale LLM agent systems.
+- [Tale](https://github.com/tale-project/tale) - Open-source project workspace where people coordinate agents through shared tasks, manager delegation, persistent sandboxes, and review of delivered work.
 
 ## Tool Use and Function Calling
 
