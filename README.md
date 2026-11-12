@@ -115,6 +115,7 @@ Agentic AI refers to AI systems that can autonomously plan, reason, use tools, a
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - Tool-using LLM evaluation framework.
 - [Tau-Bench](https://github.com/sierra-research/tau-bench) - Tool-agent-user interaction benchmark.
 - [HumanEval](https://github.com/openai/human-eval) - Code generation benchmark.
+- [agentstats](https://github.com/RishabhPande/agentstats) - Run-aware statistical analysis of repeated agent-benchmark outcomes with corrected comparisons and uncertainty tiers.
 
 ## Safety and Alignment
 
